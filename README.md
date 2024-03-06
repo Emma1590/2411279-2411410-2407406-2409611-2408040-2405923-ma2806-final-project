@@ -5,8 +5,11 @@
 ## Group Responsibilities
 
 Tyreese & Liz - Enemies and Debug and Original Art
+
 Evie - TileMap and Collisions Map
+
 Emma - Classes (Enemy, Tiles, Player etc)
+
 Molly and Micha - Movement and Playthrough (Arrow Key controlled)
 
 
@@ -26,6 +29,27 @@ Hedges/Stones/Grass the player has to navigate around - they cannot go through i
 ## Additional Features
 
 We will have pieces of cheese that the player picks up as they go through the maze that increases their speed.
+
+**INSPIRATIONS**
+
+![image](https://github.com/evierobbins/2411279-2411410-2407406-2409611-2408040-2405923-ma2806-final-project/assets/152863145/8979e650-6907-4cc8-a481-737ed1af213f)
+
+![image](https://github.com/evierobbins/2411279-2411410-2407406-2409611-2408040-2405923-ma2806-final-project/assets/152863145/476246d2-792f-4a47-ab8e-22dd882cc3f5)
+
+![image](https://github.com/evierobbins/2411279-2411410-2407406-2409611-2408040-2405923-ma2806-final-project/assets/152863145/b3278a5e-6501-4663-9374-3d6b6ec8c9df)
+
+**OUR OWN ARTWORK BELOW**
+
+![image](https://github.com/evierobbins/2411279-2411410-2407406-2409611-2408040-2405923-ma2806-final-project/assets/152863145/b70fd5ea-565b-46cf-a5dc-87c624dc814e)
+
+![image](https://github.com/evierobbins/2411279-2411410-2407406-2409611-2408040-2405923-ma2806-final-project/assets/152863145/62ed90b1-e356-4326-9da4-bea1ceae885d)
+
+![image](https://github.com/evierobbins/2411279-2411410-2407406-2409611-2408040-2405923-ma2806-final-project/assets/152863145/e9903ed1-2814-4a25-b9f2-ebb1d07c5505)
+
+
+
+
+
 
 
 
