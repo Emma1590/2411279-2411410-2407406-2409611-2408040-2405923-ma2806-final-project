@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Week 15/Tilemaps-Graphics"
+		},
+		{
+			"path": "D:/codingforthearts/week14 enemy code"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project"
+	}
+}
