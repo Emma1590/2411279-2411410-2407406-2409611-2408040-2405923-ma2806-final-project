@@ -1,5 +1,12 @@
 # Coding Girlies
 
+Elizabeth Claridge - 2407406
+Emma Smithson - 2408040
+Evangeline Robbins - 2411279
+Molayo Kuti - 2409611
+Michaella Dancel - 2405923
+Tyreese     - 2411410
+
 ## Cat and Mouse
 
 ## Group Responsibilities
