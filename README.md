@@ -6,7 +6,7 @@
 
 Tyreese & Liz - Enemies and Debug and Original Art
 
-Evie - TileMap and Collisions Map
+Evie - TileMap and Collisions Map/Collisions
 
 Emma - Classes (Enemy, Tiles, Player etc)
 
