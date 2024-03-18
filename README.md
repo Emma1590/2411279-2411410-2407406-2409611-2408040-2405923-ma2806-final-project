@@ -2,7 +2,7 @@
 
 Elizabeth Claridge - 2407406
 Emma Smithson - 2408040
-I have created classes in our game which are used as an object in our code, this helps make specific elemments in our code easier to understand eg the mouse.
+
 Evangeline Robbins - 2411279
 Molayo Kuti - 2409611
 Michaella Dancel - 2405923
@@ -16,7 +16,7 @@ Tyreese & Liz - Enemies and Debug and Original Art
 
 Evie - TileMap and Collisions Map/Collisions
 
-Emma - Classes (Enemy, Tiles, Player etc)
+Emma - Classes (Enemy, Tiles, Player etc)I have created classes in our game which are used as an object in our code, this helps make specific elemments in our code easier to understand eg the mouse.
 
 Molly and Micha - Movement and Playthrough (Arrow Key controlled)
 
