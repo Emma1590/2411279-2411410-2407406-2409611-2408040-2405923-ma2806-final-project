@@ -3,20 +3,20 @@ createCanvas(550, 300);
 textSize(18); 
 
 text("Click on the button to add the given " + 
-	"class(es) to the element", 20, 20); 
+	"class(es) to the element", 30, 40); 
 
 setBtn = 
 	createButton("Create new Element with given classes"); 
-setBtn.position(30, 40); 
+setBtn.position(20, 40); 
 setBtn.mouseClicked(createNewElement); 
 
 setBtn = 
 	createButton("Show Last Element class"); 
-setBtn.position(300, 40); 
+setBtn.position(300, 50); 
 setBtn.mouseClicked(showClasses); 
 
-class_name = createInput('tmpClass'); 
-class_name.position(30, 80); 
+class_mouse = createInput('tmpClass'); 
+class_mouse.position(30, 80); 
 } 
 
 function createNewElement() { 
@@ -32,10 +32,10 @@ let classToSet = class_name.value();
 tmpElement.class(classToSet); 
 
 text("Class set with the names: " + 
-	classToSet, 30, 120); 
+	classToSet, 40, 120); 
 
 text("Click on the button to add the given " + 
-	"class(es) to the element", 20, 20); 
+	"class(es) to the element", 30, 30); 
 } 
 
 function showClasses() { 
@@ -49,5 +49,5 @@ text("The classes of the element are: " +
 	setClasses, 30, 120); 
 
 text("Click on the button to add the given " + 
-	"class(es) to the element", 20, 20); 
+	"class(es) to the element", 30, 20); 
 } 
